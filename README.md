@@ -18,7 +18,10 @@
 <hr />
 <h3 align="center">Redes Sociais:</h3>
 <p align="center">
+<a href="https://dev.to/jevrton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jevrton" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jevrton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jevrton" height="30" width="40" /></a>
 <a href="https://instagram.com/jevrton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jevrton" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/jevertonluiss_41" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jevertonluiss_41" height="30" width="40" /></a>
 </p>
 
 <hr />
