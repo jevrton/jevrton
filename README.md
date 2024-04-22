@@ -11,8 +11,6 @@
 
 - 🤝 Por isso, preciso de ajuda :D [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
-- 💬 Pode me perguntar sobre **Python e Javascript**
-
 - 📫 Meu email: **jevertonluiss.457@gmail.com**
 
 <hr />
