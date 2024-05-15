@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🔭 Atualmente estou trabalhando no sistema: [MeuERPOnline](https://meuerponline.com.br/Home/Index)
+- 🔭 Atualmente estou trabalhando como freelancer!
 
 - 🌱 Estou aprendendo muito **ASP.NET Core**
 
